@@ -1,4 +1,4 @@
-image: hoppless/docker:latest
+image: ghcr.io/neutron-projects/docker-image:arch-neutron
 
 ports:
   - port: 3000
